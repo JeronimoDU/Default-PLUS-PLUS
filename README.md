@@ -20,14 +20,10 @@ Keep DEFAULT++V3 folder and its files as they are in the custom folder
 Launch the game
 
 ATTENTION: manually link following elements to the control unit (command seat or remote control or ECU)
-
-    Databank
-    
-    Fuel Tanks (atmo / space / rocket)
-    
-    Radars (atmo and space)
-    
-    Manual Switch (will be turned on upon script start, used in the multiple fuel tanks configuration)
+- Databank
+- Fuel Tanks (atmo / space / rocket)
+- Radars (atmo and space)
+- Manual Switch (will be turned on upon script start, used in the multiple fuel tanks configuration)
     
 
 Install the DEFAULT++ vX(rY STABLE WIP) script by right clicking on the control unit, choose Advanced, Run custom configuration
