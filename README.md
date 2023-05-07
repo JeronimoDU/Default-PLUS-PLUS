@@ -27,7 +27,7 @@ ATTENTION: manually link following elements to the control unit (command seat or
     
     Radars (atmo and space)
     
-    Manual Switch (will be turned on upon script start)
+    Manual Switch (will be turned on upon script start, used in the multiple fuel tanks configuration)
     
 
 Install the DEFAULT++ vX(rY STABLE WIP) script by right clicking on the control unit, choose Advanced, Run custom configuration
@@ -79,6 +79,27 @@ Installation steps are as follow:
 - start the command seat and enjoy (only works with custom widgets, not with default ones)
 
 
+CUSTOM WIDGETS:
+---------------
+
+Default++ offers a high modularity and unlimited number of custom widgets designed by players
+Widgets use Winlib++ operating system from the library files
+They can be turned on and off at will from the Main Menu
+
+To add and load succesfully a new custom widget its name must finish by a number that follows the last one
+
+Custom SVG, custom buttons, and custom flush override can be set by the widgets
+Enough examples are covered in the actual custom widgets files to help you develop a new one
+
+
+
+COPY RIGHTS:
+------------
+
+This script is the effort of 6 years development and game mechanics understanding by myself, Jeronimo, is today released open source due to the lack of ambition and features offered by NQ to help us small developers to make DU a better game.
+You are free to use / modify it at will, i ll certainly not update it anymore
+
+If anyone is interested to study it and develop further its possibilities, i ll be glad to communicate with you about it and post here some eventual updates made by other players
 
 
 
