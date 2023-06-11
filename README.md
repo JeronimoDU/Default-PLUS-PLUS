@@ -1,6 +1,6 @@
 # Default-PLUS-PLUS
 
-Dual Univers Advanced flight script
+Dual Univers most Advanced flight script
 
 Default++ developed since 2017, is the most advanced and innovative flight script with a unique navigation operating system Winlib++.
 
