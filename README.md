@@ -82,14 +82,20 @@ Installation steps are as follow:
 # CUSTOM WIDGETS:
 
 Default++ offers a high modularity and unlimited number of custom widgets designed by players
-
 Widgets use Winlib++ operating system from the library files
-
 They can be turned on and off at will from the Main Menu
 
-To add and load succesfully a new custom widget its name must finish by a number that follows the last one
+To add and load succesfully a new custom widget its name must finish by a number that follows the last one!!!
 
-Custom SVG, custom buttons, and custom flush override can be set by the widgets
+| Possible interactions with conf file | Description |
+| ------ | ------ |
+| Globals | Acces all the conf file globals |
+| Flush | Overrides flush, based one Kmph speeds and cruise mode |
+| SVG | Displays with or without windows borders any SVG |
+| Buttons | Creates interactible buttons |
+| Databank | Saves and loads widgets data |
+| Keybind | Reads onAction() keybinds |
+
 
 Enough examples are covered in the actual custom widgets files to help you develop a new one
 
