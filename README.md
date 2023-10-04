@@ -11,77 +11,60 @@ DU flight parameters are brought to you to an other level with dozens and dozens
 ![dualuniverse_2023-05-09_01h32m22s](https://user-images.githubusercontent.com/75027025/236959710-137b470d-919e-4db2-8d8a-13ba7e95675f.png)
 
 
-HOW TO INSTALL:
----------------
+# HOW TO INSTALL:
+IMPORTANT!
 
--Offline:
+## Offline:
 
 Unpack the content of the .rar file into DU Dual Universe\Game\data\lua\autoconf\custom folder
-
 Keep DEFAULT++V3 folder and its files as they are in the custom folder
 
 
--Online:
+## Online:
 
 Launch the game
-
 ATTENTION: manually link following elements to the control unit (command seat or remote control or ECU)
 - Databank
 - Fuel Tanks (atmo / space / rocket)
 - Radars (atmo and space)
 - Manual Switch (will be turned on upon script start, used in the multiple fuel tanks configuration)
+- Telemeter (optional)
     
 
 Install the DEFAULT++ vX(rY STABLE WIP) script by right clicking on the control unit, choose Advanced, Run custom configuration
 
 
-USERS MANUAL:
--------------
+# USERS MANUAL:
 
 Menus and buttons are operated with the mouse
-
 Windows and widgets can be draged by their tittle bar
 
-Left Click over button = change the paramater increment (when there is one, increment is shown on the most right like so +-xyz)
-
-CTRL + Left Click over a button to save a button in the Quick Tool Bar (a little asterisk "*" confirms the shortcut is active)
-
-Wheel Scroll over button = change the parameter
-
-Wheel Scroll over a widget = scale change
-
-ALT + 1 = to open and close Main Settings menu
-
-ALT + 2 = to open and close Travel Planner++ menu
-
-Double ALT + hold = Quick Tool menu and Widgets adjustment menu
+| Basic commands | Description |
+| ------ | ------ |
+| Left Click over button | change the paramater increment (when there is one, increment is shown on the most right like so +-xyz) |
+| CTRL + Left Click over a button | to save a button in the Quick Tool Bar (a little asterisk "*" confirms the shortcut is active) |
+| Wheel Scroll over button | change the parameter |
+| Wheel Scroll over a widget | scale change |
+| ALT + 1 | to open and close Main Settings menu |
+| ALT + 2 | to open and close Travel Planner++ menu |
+| Double ALT + hold | Quick Tool menu and Widgets adjustment menu |
 
 To acces integrated manual user, find the Help Menu button at the bottom of the window Menu Settings
 
-chat commands:
+| Chat commands | Description |
+| ------ | ------ |
+| help | prints the help menu in lua chat tab |
+| reset all | formats databank to factory settings |
+| ::pos{} | translates map pos to world coordinate |
+| align to ::pos{} OR align to vec3() | construct alignment to coordinate |
+| align to destination | construct alignment to previous entered coordinates |
+| add asteroids ::pos{} | adds asteroids to Travel Planner++ map |
+| clear asteroids | clears all saved asteroids |
 
-help = prints the help menu in lua chat tab
+# MULTIPLE FUEL TANKS CONFIGURATION:
 
-reset all = formats databank to factory settings
-
-::pos{} = translates map pos to world coordinate
-
-align to ::pos{} OR align to vec3() = construct alignment to coordinate
-
-align to destination = construct alignment to previous entered coordinates
-
-add asteroids ::pos{} = adds asteroids to Travel Planner++ map
-
-clear asteroids = clears all saved asteroids
-
-
-MULTIPLE FUEL TANKS CONFIGURATION:
-----------------------------------
-
-If total number of elements to be linked and high number of fuel tanks is greater than 10 links
-
-It is possible to link high number of fuel tanks to 1 or multiple programing boards
-
+If total number of elements to be linked and high number of fuel tanks is greater than 10 links!
+It is possible to link high number of fuel tanks to 1 or multiple programing boards.
 
 Within the DEFAULT++V3 folder find the "script for FuelTanks on Programming Boards.json" file to be copy pasted in the programing boards
 
@@ -96,8 +79,7 @@ Installation steps are as follow:
 - start the command seat and enjoy (only works with custom widgets, not with default ones)
 
 
-CUSTOM WIDGETS:
----------------
+# CUSTOM WIDGETS:
 
 Default++ offers a high modularity and unlimited number of custom widgets designed by players
 
@@ -111,10 +93,23 @@ Custom SVG, custom buttons, and custom flush override can be set by the widgets
 
 Enough examples are covered in the actual custom widgets files to help you develop a new one
 
+| Pre-installed Widgets | Description |
+| ------ | ------ |
+| HUD++ | Alternative flight HUD with integrated gyro |
+| Traveler++ | Space travels simple autopilot, interactible with SolarSystem++ |
+| SolarSystem++ | Augmented reality solar system and bookmarks display |
+| DammageRepport++ | Augmented reality dammage repport |
+| DroneFlight++ | Flight mode for drone like constructs using only vertical thrust |
+
+# UPDATES
+
+| Version | Release note |
+| ------ | ------ |
+| v3.6 | Released version |
+| v3.62 | Added DroneFlight++ widget by Sardini / Increased modularity for custom widgets interaction with the conf file / bug fix | 
 
 
-COPY RIGHTS:
-------------
+# COPY RIGHTS:
 
 This script is the effort of 6 years development and game mechanics understanding by myself, Jeronimo, is today released open source due to the lack of ambition and features offered by NQ to help us small developers to make DU a better game.
 
