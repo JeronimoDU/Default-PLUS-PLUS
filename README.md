@@ -8,11 +8,14 @@ DU flight parameters are brought to you to an other level with dozens and dozens
 
 ![dualuniverse_2023-05-09_01h26m34s](https://user-images.githubusercontent.com/75027025/236959679-b8004eea-4f7e-4fad-b38a-ad1041fbd2f1.png)
 ![dualuniverse_2023-05-09_01h28m11s](https://user-images.githubusercontent.com/75027025/236959699-f79e04ec-58cd-4bc0-8f4c-3890db1a7299.png)
-![dualuniverse_2023-05-09_01h32m22s](https://user-images.githubusercontent.com/75027025/236959710-137b470d-919e-4db2-8d8a-13ba7e95675f.png)
-
-
+![dualuniverse_2023-05-09_01h32m22s](https://user-images.githubusercontent.com/75027025/236959710-137b470d-919e-4db2-8d8a-13ba7e95675f.png)  
+<br>
+<br>
+<br>
+<br>
+   
 # HOW TO INSTALL:
-IMPORTANT!
+**IMPORTANT!**
 
 ## Offline:
 
@@ -32,7 +35,10 @@ ATTENTION: manually link following elements to the control unit (command seat or
     
 
 Install the DEFAULT++ vX(rY STABLE WIP) script by right clicking on the control unit, choose Advanced, Run custom configuration
-
+<br>
+<br>
+<br>
+<br>
 
 # USERS MANUAL:
 
@@ -60,6 +66,10 @@ To acces integrated manual user, find the Help Menu button at the bottom of the 
 | align to destination | construct alignment to previous entered coordinates |
 | add asteroids ::pos{} | adds asteroids to Travel Planner++ map |
 | clear asteroids | clears all saved asteroids |
+<br>
+<br>
+<br>
+<br>
 
 # MULTIPLE FUEL TANKS CONFIGURATION:
 
@@ -77,15 +87,20 @@ Installation steps are as follow:
 - install programing boards script
 - turn on the manual switch to initiate the scripts (only once, the first time)
 - start the command seat and enjoy (only works with custom widgets, not with default ones)
-
+<br>
+<br>
+<br>
+<br>
 
 # CUSTOM WIDGETS:
 
 Default++ offers a high modularity and unlimited number of custom widgets designed by players
 Widgets use Winlib++ operating system from the library files
 They can be turned on and off at will from the Main Menu
+<br>
 
 To add and load succesfully a new custom widget its name must finish by a number that follows the last one!!!
+<br>
 
 | Possible interactions with conf file | Description |
 | ------ | ------ |
@@ -96,8 +111,9 @@ To add and load succesfully a new custom widget its name must finish by a number
 | Databank | Saves and loads widgets data |
 | Keybind | Reads onAction() keybinds |
 
-
+<br>
 Enough examples are covered in the actual custom widgets files to help you develop a new one
+<br>
 
 | Pre-installed Widgets | Description |
 | ------ | ------ |
@@ -106,6 +122,10 @@ Enough examples are covered in the actual custom widgets files to help you devel
 | SolarSystem++ | Augmented reality solar system and bookmarks display |
 | DammageRepport++ | Augmented reality dammage repport |
 | DroneFlight++ | Flight mode for drone like constructs using only vertical thrust |
+<br>
+<br>
+<br>
+<br>
 
 # UPDATES
 
@@ -113,7 +133,10 @@ Enough examples are covered in the actual custom widgets files to help you devel
 | ------ | ------ |
 | v3.6 | Released version |
 | v3.62 | Added DroneFlight++ widget by Sardini / Increased modularity for custom widgets interaction with the conf file / bug fix | 
-
+<br>
+<br>
+<br>
+<br>
 
 # COPY RIGHTS:
 
