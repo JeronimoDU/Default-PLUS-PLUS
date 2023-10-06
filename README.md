@@ -132,7 +132,7 @@ Enough examples are covered in the actual custom widgets files to help you devel
 | Version | Release note |
 | ------ | ------ |
 | v3.6 | Released version |
-| v3.62 | Added DroneFlight++ widget by Sardini / Increased modularity for custom widgets interaction with the conf file / bug fix | 
+| v3.62 coming soon | Added DroneFlight++ widget by Sardini / Increased modularity for custom widgets interaction with the conf file / bug fix | 
 <br>
 <br>
 <br>
