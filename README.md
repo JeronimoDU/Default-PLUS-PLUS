@@ -110,6 +110,7 @@ To add and load succesfully a new custom widget its name must finish by a number
 | Buttons | Creates interactible buttons |
 | Databank | Saves and loads widgets data |
 | Keybind | Reads onAction() keybinds |
+| Chat commands | Receives text imputs |
 
 <br>
 Enough examples are covered in the actual custom widgets files to help you develop a new one
