@@ -148,5 +148,12 @@ You are free to use / modify it at will, i ll certainly not update it anymore
 If anyone is interested to study it and develop further its possibilities, i ll be glad to communicate with you about it and post here some eventual updates made by other players
 
 DISCORD: Jeronimo#4624
+<br>
+<br>
+<br>
+<br>
+
+Check out the massivee work done by TheGreatSardini to fit everything into one single file and more:
+https://github.com/TheGreatSardini/Default--
 
 
