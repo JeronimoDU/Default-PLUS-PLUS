@@ -1,4 +1,4 @@
-# Default-PLUS-PLUS v3.6 for release 1.4.2
+# Default-PLUS-PLUS v3.63 for DU release 1.4.13
 
 Dual Univers most Advanced flight script
 
