@@ -1,4 +1,6 @@
-# Default-PLUS-PLUS v3.63 for DU release 1.4.13
+# Default PLUS-PLUS v3.63 for DU release 1.4.13 (discontinuited)
+
+## Default Minus Minus v1.10.4 for DU release 1.4.13 (updated 02/10/2024)
 
 Dual Univers most Advanced flight script
 
@@ -20,7 +22,7 @@ DU flight parameters are brought to you to an other level with dozens and dozens
 ## Offline:
 
 Unpack the content of the .rar file into DU Dual Universe\Game\data\lua\autoconf\custom folder
-Keep DEFAULT++V3 folder and its files as they are in the custom folder
+Keep WIDGETS-- folder and its files as they are in the custom folder
 
 
 ## Online:
@@ -122,7 +124,7 @@ Enough examples are covered in the actual custom widgets files to help you devel
 | Traveler++ | Space travels simple autopilot, interactible with SolarSystem++ |
 | SolarSystem++ | Augmented reality solar system and bookmarks display |
 | DammageRepport++ | Augmented reality dammage repport |
-| DroneFlight++ | Flight mode for drone like constructs using only vertical thrust |
+| Info++ | Various basic flight informations |
 <br>
 <br>
 <br>
@@ -134,6 +136,7 @@ Enough examples are covered in the actual custom widgets files to help you devel
 | ------ | ------ |
 | v3.6 | Released version |
 | v3.63 | Added DroneFlight++ widget by Sardini / Increased modularity for custom widgets interaction with the conf file / multi users data saving management / bugs fix | 
+| v1.10.4 | End of Default++ development, Default-- continuation |
 <br>
 <br>
 <br>
@@ -141,7 +144,7 @@ Enough examples are covered in the actual custom widgets files to help you devel
 
 # COPY RIGHTS:
 
-This script is the effort of 6 years development and game mechanics understanding by myself, Jeronimo, is today released open source due to the lack of ambition and features offered by NQ to help us small developers to make DU a better game.
+This script is the effort of 8 years development and game mechanics understanding by myself, Jeronimo, and TheGreatSardini, is today released open source due to the lack of ambition and features offered by NQ to help us small developers to make DU a better game.
 
 You are free to use / modify it at will, i ll certainly not update it anymore
 
