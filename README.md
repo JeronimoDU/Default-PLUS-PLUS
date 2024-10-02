@@ -1,12 +1,16 @@
-# Default PLUS-PLUS v3.63 for DU release 1.4.13 (discontinuited)
+# Default Minus Minus v1.10.4 for DU release 1.4.13 (updated 02/10/2024)
 
-## Default Minus Minus v1.10.4 for DU release 1.4.13 (updated 02/10/2024)
+## Default PLUS-PLUS v3.63 for DU release 1.4.13 (discontinuited)
+
+
 
 Dual Univers most Advanced flight script
 
 Default++ developed since 2017, is the most advanced and innovative flight script with a unique navigation operating system Winlib++.
 
 DU flight parameters are brought to you to an other level with dozens and dozens of customizable settings.
+
+Default-- is the massive work of TheGreatSardini to have optimized Default++ into one single conf file.
 
 ![dualuniverse_2023-05-09_01h26m34s](https://user-images.githubusercontent.com/75027025/236959679-b8004eea-4f7e-4fad-b38a-ad1041fbd2f1.png)
 ![dualuniverse_2023-05-09_01h28m11s](https://user-images.githubusercontent.com/75027025/236959699-f79e04ec-58cd-4bc0-8f4c-3890db1a7299.png)
