@@ -1,4 +1,4 @@
-# Default Minus Minus v1.10.4 for DU release 1.4.13 (updated 02/10/2024)
+# Default Minus Minus v1.10.4 for DU release 1.4.18 (updated 02/10/2024)
 
 ## Default PLUS-PLUS v3.63 for DU release 1.4.13 (discontinuited)
 
@@ -82,7 +82,7 @@ To acces integrated manual user, find the Help Menu button at the bottom of the 
 If total number of elements to be linked and high number of fuel tanks is greater than 10 links!
 It is possible to link high number of fuel tanks to 1 or multiple programing boards.
 
-Within the DEFAULT++V3 folder find the "script for FuelTanks on Programming Boards.json" file to be copy pasted in the programing boards
+Within the WIDGETS-- folder find the "script for FuelTanks on Programming Boards.json" file to be copy pasted in the programing boards
 
 Installation steps are as follow:
 - link 1 manual switch to command seat
@@ -100,7 +100,7 @@ Installation steps are as follow:
 
 # CUSTOM WIDGETS:
 
-Default++ offers a high modularity and unlimited number of custom widgets designed by players
+Default-- offers a high modularity and unlimited number of custom widgets designed by players
 Widgets use Winlib++ operating system from the library files
 They can be turned on and off at will from the Main Menu
 <br>
@@ -154,7 +154,8 @@ You are free to use / modify it at will, i ll certainly not update it anymore
 
 If anyone is interested to study it and develop further its possibilities, i ll be glad to communicate with you about it and post here some eventual updates made by other players
 
-DISCORD: Jeronimo#4624
+DISCORD: jeronimo_cnfr / 218440570803191808
+Dont hesitate to hit me for more detailed usage instructions
 <br>
 <br>
 <br>
