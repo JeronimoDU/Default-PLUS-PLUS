@@ -1,4 +1,4 @@
-# Default Minus Minus v1.10.4 for DU release 1.4.18 (updated 02/10/2024)
+# Default Minus Minus v1.10.5 for DU release 1.4.18 (updated 02/10/2024)
 
 ## Default PLUS-PLUS v3.63 for DU release 1.4.13 (discontinuited)
 
